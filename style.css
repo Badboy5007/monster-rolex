@@ -1,0 +1,50 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    width: 100%;
+
+}
+
+
+h1{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+
+.menu ul li{
+    display: inline;
+    padding-right: 25px;
+
+
+}
+
+.pozadie{
+    background: red;
+    height: 10vh;
+
+
+}
+
+.menu{
+    float: right;
+    padding: 25px;
+    background: green;
+
+}
+.menu ul{
+    
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+}
+
